@@ -1,8 +1,8 @@
 Rencana Belajar bahasa Programming baru
 1. ES6
-   - Belajar di Wegodev
+   - Belajar di BWA
    - Mencoba bikin project sederhana
 2. NodeJS
 3. CSS Grid
 4. VueJS
-5. Flutter
+5. React Native
