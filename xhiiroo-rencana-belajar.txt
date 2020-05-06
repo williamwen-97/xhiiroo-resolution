@@ -4,5 +4,5 @@ Rencana Belajar bahasa Programming baru
    - Mencoba bikin project sederhana
 2. NodeJS
 3. CSS Grid
-4. VueJS
+4. AngularJS
 5. Flutter
