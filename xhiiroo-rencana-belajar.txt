@@ -3,5 +3,6 @@ Rencana Belajar bahasa Programming baru
    - Belajar di Wegodev
    - Mencoba bikin project sederhana
 2. NodeJS
-3. VueJS
-4. Flutter
+3. CSS Grid
+4. VueJS
+5. Flutter
