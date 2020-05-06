@@ -1,0 +1,7 @@
+Rencana Belajar bahasa Programming baru
+1. ES6
+   - Belajar di Wegodev
+   - Mencoba bikin project sederhana
+2. NodeJS
+3. VueJS
+4. Flutter
